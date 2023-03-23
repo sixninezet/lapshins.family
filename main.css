@@ -14,7 +14,7 @@ body {
 
 body {
   background-color: #d5beb0;
-  color: #c2bebe;
+  color: #808080;
   max-width: 700px;
   margin: 0 auto;
   padding: 16px;
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .author p {
-  color: #b6b6b6;
+  color: #636363;
   margin-left: 0.65vh;
 }
 
